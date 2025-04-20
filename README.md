@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/block_diagram.png" alt="Block Diagram" width="800"/>
+  <img src="assets/Block-diagram-for-Starter-Kit-TMS320C671-Taken-from-17.png" alt="Block Diagram" width="800"/>
 </p>
 
 # DSP Audio Encryption on TMS320C6713
