@@ -1,4 +1,10 @@
 # DSP Audio Encryption on TMS320C6713
+
+<p align="center">
+  <img src="https://www.researchgate.net/publication/258669537/figure/fig2/AS:324340324290561@1454340167219/Block-diagram-for-Starter-Kit-TMS320C671-Taken-from-17.png" alt="Project Banner" width="800"/>
+</p>
+
+
 This report details the design and implementation considerations for a simple Digital
 Signal Processor (DSP)–based audio encryption and decryption system utilizing the Texas
 Instruments (TI) TMS320C6713 device. The primary objective is to explore basic techniques
